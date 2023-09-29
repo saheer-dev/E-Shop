@@ -1,0 +1,10 @@
+#show_div{
+    visibility: hidden;
+}
+
+#op:hover #show_div{
+    cursor: pointer;
+    visibility: visible;
+    top: 9.1rem;
+    transition: top 1s;    
+}
